@@ -19,5 +19,5 @@ Hopefully NLP and Python will perform the magic to modify the order, and have it
 From here, lots of improvements can be developed. It is just a simple matter of time. 
 
 
-![alt text](https://github.com/elsauto/chatbot/blob/master/ExampleChat.png)
+![Example chat](https://github.com/elsauto/chatbot/blob/master/ExampleChat.png)
 
