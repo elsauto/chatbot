@@ -13,7 +13,7 @@ When in need of an order update type for example:
 
       'Make one soda regular'
               or
-      'Make one dring regular'
+      'Make one drink regular'
 
 Hopefully NLP and Python will perform the magic to modify the order, and have it just the way you wanted it to be. 
 From here, lots of improvements can be developed. It is just a simple matter of time. 
